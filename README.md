@@ -10,6 +10,11 @@ Stop the Ball is a simple console-based game implemented in C++ using the graphi
 
 ## Screenshots
 Include screenshots or gifs of your game to provide a visual representation.
+![Screenshot (26)](https://github.com/Hizbullah-Khan/Stop-the-ball-game-/assets/154998700/34a91fc9-a562-448f-b150-606fd60cc51e)
+
+
+
+![startgame](https://github.com/Hizbullah-Khan/Stop-the-ball-game-/assets/154998700/e286d306-f586-48d7-b920-3448cf2a593e)
 
 ## Prerequisites
 - Turbo C++ compiler or any C++ compiler with graphics.h support.
@@ -33,9 +38,4 @@ Include screenshots or gifs of your game to provide a visual representation.
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize this README file based on your preferences and specific details about your game. Adding more sections, such as "Known Issues" or "Acknowledgments," can provide additional context for users and contributors.
